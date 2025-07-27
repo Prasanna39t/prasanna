@@ -3,7 +3,7 @@
 🤝 I’m looking to collaborate on SOC/Threat Hunting projects.<br> 
 🛠 Seeking help to improve threat-hunting and incident response skills.<br>
 📚 Currently learning Splunk for cybersecurity, network traffic analysis and <br>
-vulnerability assessment using tools like Kali Linux, Burp Suite, and Wireshark.<br>
+   vulnerability assessment using tools like Kali Linux, Burp Suite, and Wireshark.<br>
 💬 Ask me about vulnerability tracking.<br>
 ⚡ Fun fact: I enjoy analyzing real cyber threats!
 
